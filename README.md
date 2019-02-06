@@ -1,3 +1,17 @@
+# Chirper Project
+
+This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+
+Most of the commits in this repository correspond to videos in the program.
+
+## Contributing
+
+Because this is a code-along project and the commits correspond to specific videos in the program, I will not be accepting pull requests.
+
+If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution in [Udacity repo](https://github.com/udacity/reactnd-chirper-app).
+
+## React app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
